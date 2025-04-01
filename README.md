@@ -1,2 +1,1 @@
-# GitHubPages
-GitHub home page for me!
+# Hugo's User Page
