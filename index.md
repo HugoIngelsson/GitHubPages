@@ -14,24 +14,28 @@ Hi, I'm Hugo! (It's legally Carl, but really, I've never used that name in my li
 <!---
 I know this isn't the typical way to do images in Markdown but I wanted the image to stay at a constant width
 -->
-<img src="img/me.jpg" alt="Hugo and Stella" width="500"/></br>
+<img src="img/me.jpg" alt="Hugo and Stella" width="500"/>
+
 > *Me and my wonderful dog, Stella*
 
 I am a Computer Science (as I suspect we all are) and Applied Mathematics double major, and it's my second year here at UCSD.
 
 I was originally born in Uppsala, Sweden and lived there until I was 11 years old. My family still speaks Swedish at home and we still have a summer house there, so I visit often.
 
-<img src="img/jarvsoo.jpg" alt="Summer house" width="500"/></br>
+<img src="img/jarvsoo.jpg" alt="Summer house" width="500"/>
+
 > *Taken from my summer house in Sweden*
 
 After that, my family moved to Menlo Park in the Bay Area. I was doubtful at first (as you imagine any 11-year-old might be when he moves halfway across the world), but I've grown to really love it here in California. 
 
-<img src="img/thanksgiving.jpg" alt="Thanksgiving" width="500"/></br>
+<img src="img/thanksgiving.jpg" alt="Thanksgiving" width="500"/>
+
 > *Me and my family during Thanksgiving 2024*
 
 In addition to coding and being a full-time college student, I also do some other things. I've played the trumpet since I was in third grade. I stopped playing at the end of the last school year because I didn't have the time and would rather spend it on doing other things, but I might pick it back up again when I'm less busy.
 
-<img src="img/trumpet.jpeg" alt="Trumpet" width="500"/></br>
+<img src="img/trumpet.jpeg" alt="Trumpet" width="500"/>
+
 > *Me and my fellow trumpet players at the end of last year's concert*
 
 I also play loads of games, though not as much as I used to back in highschool. Among my favorites are:
@@ -56,7 +60,8 @@ I made a game of Catan that runs in the terminal, which you can find [here](http
 
 I think the coolest thing about this project to me is that it's all just in native Java, so pretty much any system that supports ANSI escape codes can run the app. Maybe I missed an opportunity to learn some other framework when making this instead, but I think it was a good chance to get into the meats of how to build something ground up.
 
-<img src="img/catan.png" alt="Catan" width="500"/></br>
+<img src="img/catan.png" alt="Catan" width="500"/>
+
 > *The home screen for my game of Catan*
 
 ### Game Boy Emulator
@@ -67,10 +72,12 @@ Ultimately, it boiled down to painstakingly reading through every detail on how 
 
 The feeling of seeing the startup screen work for the first time is like no other. It really is a special kind of magic to have worked so close to the computer-level functionality of a device and then have it function.
 
-<img src="img/gameboy_start.png" alt="Game Boy start screen" width="500"/></br>
+<img src="img/gameboy_start.png" alt="Game Boy start screen" width="500"/>
+
 > *The startup screen for Game Boy Color running in my emulator*
 
-<img src="img/pk_gold.png" alt="Pokemon Gold" width="500"/></br>
+<img src="img/pk_gold.png" alt="Pokemon Gold" width="500"/>
+
 > *The home screen for Pokemon Gold running in my emulator*
 
 ### AI
@@ -108,7 +115,8 @@ This is a [competition](https://battlecode.org/) where you build an AI to play i
 
 There are a couple of reasons why the competition is so challenging (and fun!). First, you only program the brains of individual robots, who are all part of a team, and there isn't a direct way for them to influence each others' actions. They thus have to operate on some kind of shared strategy. Furthermore, individual robots only have a limited sensing distance, so the small amount of messaging that robots do get has to be used to organize over the entire map. Finally, robots are restricted on how much bytecode (effectively computational power) they're allowed each round, meaning you not only have to manage actual in-game resources but also how efficiently the robots operate.
 
-<img src="img/battlecode.jpg" alt="Battlecode" width="500"/></br>
+<img src="img/battlecode.jpg" alt="Battlecode" width="500"/>
+
 > *Me and my teammates in Boston after the final tournament*
 
 ### Competitive Programming
@@ -117,7 +125,8 @@ Since getting to college, I've also gotten into competitive programming. I joine
 
 Really, competitive programming only gives a slice of what programming ought to be, and it does lend itself to some bad habits (like using nonsensical names for variables and macros to make code faster to write). However, I also think it's given me the perspective and ability to write code that is more efficient, which I think a valuable skill.
 
-<img src="img/comp_prog.jpg" alt="Competitive Programming" width="500"/></br>
+<img src="img/comp_prog.jpg" alt="Competitive Programming" width="500"/>
+
 > *Image from this last year's competition season. I was on team "UCSD Warrent Bear"*
 
 ## What do I hope to achieve in this class?
